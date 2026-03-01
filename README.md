@@ -1,21 +1,39 @@
-# 🚖 Uber Operations & KPI Dashboard  
+# 🚖 Uber Operations & KPI Dashboard
 
-A professional analytics platform designed to track and optimize ride-sharing performance.  
-This dashboard transforms raw trip data into actionable operational intelligence, focusing on revenue growth, fleet efficiency, and destination trends.
+A Power BI analytics dashboard designed to monitor and optimize ride-sharing performance.  
+The project transforms structured trip-level data (one row per trip) into actionable operational insights.
 
-📊 Key Performance Indicators  
+---
 
-💰 Financial Metrics  
-Total Revenue: Real-time aggregation of gross earnings across the entire fleet.  
-Average Revenue per Trip: Insights into pricing efficiency and service tier performance.  
-Revenue Growth: Periodic comparisons to identify peak earning windows.
+## 📊 Key Performance Indicators
 
-🚗 Fleet & Trip Analytics  
-Average Distance per Vehicle: Monitoring wear-and-tear and fuel efficiency across the fleet.  
-Trip Volume: Tracking total completed trips to measure platform utilization.  
-Distance Trends: Analysis of short-haul vs. long-haul distribution.
+### 💰 Financial Metrics
+- **Total Revenue** – Aggregated gross earnings across completed trips.
+- **Average Revenue per Trip** – Pricing efficiency metric.
+- **Revenue Growth** – Time-based revenue comparison to identify peak earning periods.
 
-📍 Location & Destination Intelligence  
-Hottest Pick-up Locations: Ranked list of high-demand areas to optimize driver positioning.  
-Most Frequent Drop-offs (Hot Drops): Identification of high-traffic termination points.  
-Popular Destinations: Categorization of the most common end-points (e.g., Airports, Business Districts).
+### 🚗 Fleet & Trip Analytics
+- **Trip Volume** – Total completed rides.
+- **Average Distance per Vehicle** – Fleet utilization indicator.
+- **Distance Trends** – Short-haul vs long-haal distribution analysis.
+
+### 📍 Location & Destination Intelligence
+- **Top Pick-up Locations** – High-demand zones for driver positioning.
+- **Most Frequent Drop-offs ("Hot Drops")** – Common ride termination areas.
+- **Popular Destinations** – Categorized drop-off zones (Airports, Business Districts, etc.).
+
+---
+
+## 🛠 Technical Stack
+- **Power BI**
+- **Power Query**
+- **DAX**
+- **CSV Dataset**
+
+---
+
+## 📈 Business Impact
+- Enabled revenue performance tracking  
+- Identified demand hotspots  
+- Improved visibility into fleet efficiency  
+- Supported data-driven operational decisions
