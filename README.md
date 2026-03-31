@@ -41,4 +41,6 @@ The project transforms structured trip-level data (one row per trip) into action
 
 
 ## 📊 Dashboard Preview
-![Dashboard](./Snapshot 1.png)
+<p align="center">
+  <img src="./images/Snapshot 1.png" width="700"/>
+</p>
