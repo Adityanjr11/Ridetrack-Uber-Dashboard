@@ -37,3 +37,8 @@ The project transforms structured trip-level data (one row per trip) into action
 - Identified demand hotspots  
 - Improved visibility into fleet efficiency  
 - Supported data-driven operational decisions
+
+
+
+## 📊 Dashboard Preview
+![Dashboard](./Snapshot 1.png)
