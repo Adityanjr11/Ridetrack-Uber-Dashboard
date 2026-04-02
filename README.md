@@ -1,3 +1,9 @@
+# PROBLEM STATEMENT
+
+The objective of this project was to analyze ride-sharing operational data to understand revenue patterns, demand distribution, and fleet utilization. The goal was to transform raw trip-level data into actionable insights that can help optimize pricing strategies, improve resource allocation, and enhance overall operational efficiency.
+
+---
+
 # 🚖 Uber Operations & KPI Dashboard
 
 A Power BI analytics dashboard designed to monitor and optimize ride-sharing performance.  
