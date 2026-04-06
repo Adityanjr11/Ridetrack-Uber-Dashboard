@@ -45,4 +45,5 @@ The project transforms structured trip-level data (one row per trip) into action
 - Supported data-driven operational decisions
 
 
-
+## Dashboard Preview
+![Dashboard](Snapshot 1.png)
